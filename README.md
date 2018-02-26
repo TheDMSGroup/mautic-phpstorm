@@ -12,3 +12,10 @@ A coding style format that:
 
 So this doesn't mean you don't have to use PHP-CS,
 but at least the code style of PHPStorm will not compete with PHP-CS :)
+
+## Installation
+
+- Download the Mautic.xml file.
+- Install the Code Style under Preferences > Editor > Code Style > PHP > Scheme > Import Scheme
+
+![](screenshot.png?raw=true)
