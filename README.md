@@ -15,7 +15,7 @@ but at least the code style of PHPStorm will not compete with PHP-CS so that you
 
 ## Installation
 
-- Download the Mautic.xml file.
+- Download the [Mautic.xml](https://rawgit.com/TheDMSGroup/mautic-php-cs-phpstorm/master/Mautic.xml) file.
 - Install the Code Style under Preferences > Editor > Code Style > PHP > Scheme > Import Scheme > Intellij IDEA code style XML
 
 ![](screenshot.png?raw=true)
