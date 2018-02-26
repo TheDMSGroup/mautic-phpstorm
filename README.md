@@ -1,4 +1,4 @@
-# mautic-cs-phpstorm
+# Code Styles for Mautic + PHP-CS + PHPStorm
 
 A coding style format that:
 - Fits Symfony2 standards
@@ -10,4 +10,5 @@ A coding style format that:
 - Some equal sign indentations are ignored, because PHPStorm is aligning based on types, where PHP-CS indents all lines containing equal signs.
 - [Yoda](https://en.wikipedia.org/wiki/Yoda_conditions) conditions are not supported.
 
-So this doesn't mean you don't have to use PHP-CS, but at least the code style of PHPStorm will not compete with PHP-CS :)
+So this doesn't mean you don't have to use PHP-CS,
+but at least the code style of PHPStorm will not compete with PHP-CS :)
